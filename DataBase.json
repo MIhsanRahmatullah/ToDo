@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1649826862508,
+      "name": "Ramadani",
+      "title": "LCD pecah akibat jatuh terkena batu",
+      "phone": "086313458239"
+    },
+    {
+      "id": 1649834214763,
+      "name": "Nanta",
+      "title": "Microphone rusak karena terkena air",
+      "phone": "087456656123"
+    },
+    {
+      "id": 1649840153386,
+      "name": "ketut",
+      "title": "kamera rusak karena jatuh terkena batu",
+      "phone": "08975478136"
+    },
+    {
+      "id": 1649840219971,
+      "name": "Nur",
+      "title": "FIngerprint rusak karena terkena air",
+      "phone": "08218741298"
+    },
+    {
+      "id": 1649841773071,
+      "name": "Reyhan",
+      "title": "Simcard tidak terbaca karena sudah lama tidak dipakai",
+      "phone": "086141873145"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

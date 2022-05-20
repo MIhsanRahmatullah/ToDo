@@ -1,0 +1,62 @@
+.cardRegister{
+    width: 300px;
+    height: 300px;
+    border-radius: 12%;
+    box-shadow: 0 0 16px blue;
+    margin: auto;
+    margin-top: 200px;
+    padding: 15px;
+}
+    .textRegister{
+        text-align: center;
+        color: blue;
+        margin: 30px;
+    }
+    .input{
+        width: 200px;
+        height: 30px;
+        text-align: center;
+        margin: 10px 40px;
+        background-color: rgb(252, 252, 252);
+        border-radius: 7%;
+        box-shadow: 0 0 6px blue;
+    }
+    .buttonRegister{
+        width: 120px;
+        height: 40px;
+        margin: 25px 90px;
+        border-radius: 12px;
+        background-color: rgb(89, 214, 255);
+    }
+        .buttonRegister:hover{
+            cursor:pointer;
+        }
+    .buttonLoading{
+        width: 120px;
+        height: 40px;
+        margin: 25px 90px;
+        border-radius: 12px;
+        background-color: lightgreen;
+    }
+        .buttonLoading:hover{
+            cursor: progress;
+        }
+    .button2{
+        margin: 87px;
+        padding: 20px;
+        border-radius: 12px;
+        background-color: lightcoral;
+    }
+        .button2:hover{
+            cursor:pointer;
+        }
+    .button1{
+        margin: 79px;
+        padding: 20px;
+        border-radius: 12px;
+        background-color: lightcoral;
+    }
+        .button1:hover{
+            cursor:pointer;
+        }
+

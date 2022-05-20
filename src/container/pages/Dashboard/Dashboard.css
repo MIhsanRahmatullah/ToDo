@@ -1,0 +1,127 @@
+.form{
+    width: 300px;
+    height: 310px;
+    background-color: lightblue;
+    border-radius: 12%;
+    box-shadow: 0 0 16px blue;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+}
+    .inputTitle{
+        width: 200px;
+        height: 30px;
+        text-align: center;
+        margin: 10px 40px;
+        background-color: rgb(252, 252, 252);
+        border-radius: 7%;
+        box-shadow: 0 0 6px blue;
+    }
+    .inputContent{
+        width: 200px;
+        height: 60px;
+        text-align: center;
+        margin: 10px 40px;
+        background-color: rgb(252, 252, 252);
+        border-radius: 7%;
+        box-shadow: 0 0 6px blue;
+    }
+    .buttonSimpan{
+        width: 120px;
+        height: 40px;
+        margin: 10px 20px;
+        border-radius: 12px;
+        background-color: rgb(89, 214, 255);
+    }
+        .buttonSimpan:hover{
+            cursor:pointer;
+        }
+    .buttonCancel{
+        width: 120px;
+        height: 40px;
+        margin: 5px 20px;
+        border-radius: 12px;
+        background-color: lightcoral;
+    }
+        .buttonCancel:hover{
+            cursor:pointer;
+        }
+    
+
+.card{
+    width: 1200px;
+    height: 110px;
+    background-color: lightgreen;
+    box-shadow: 0 0 16px blue;
+    margin: auto;
+    margin-top: 0px;
+    transition: all ease 0.05s;
+    position: relative;
+    border-radius: 20px;
+}
+    .card:hover{
+        cursor:pointer;
+        transform: translateY(-5px);
+        background: lightblue;
+    }
+    .Title{
+        font-size: larger;
+        font-weight: bolder;
+        font-variant: small-caps;
+        margin-left: 10px;
+        margin-bottom: 0px;
+    }
+    .Date{
+        font-size: smaller;
+        font-weight: bolder;
+        font-style: italic;
+        margin:0px;
+        margin-left: 20px;
+    }
+        .jam{
+            display: inline-block;
+        }
+        .minuts{
+            display: inline-block;
+            margin-right: 10px;
+        }
+        .hari{
+            display: inline-block;
+        }
+        .tanggal{
+            display: inline-block;
+        }
+        .tahun{
+            display: inline-block;
+        }
+    .Content{
+        font-size: medium;
+        margin: 15px;
+        margin-top: 0px;
+    }
+    .buttonDelete{
+        width: 30px;
+        height: 30px;
+        background-color: rgb(218, 238, 144);
+        top: 0px;
+        right:0px;
+        border-radius: 50%;
+        border: 1px solid black;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+    }
+        .buttonDelete:hover{
+            cursor:pointer;
+            transform: translate(2px, -2px);
+            width: 30px;
+            height: 30px;
+            background-color: red;
+            border-radius: 50%;
+            border: 1px solid black;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+        }
